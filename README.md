@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" width="200" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhneXI3aWVpaXlsaHgxa2M2ZnN6cm9vMW0wYjFmOGc2djlydnY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFfZknjtkgkF8l1zLW/giphy.gif" />
+<img align="right" width="200" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lmeDAzZXgzYTEwYnIxcHplNDExMnVoMjBnZXVsNmdwNHo1NnJ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" />
 
 ### 🌼 About Me
 
@@ -25,11 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loc-04&layout=compact&theme=tokyonight)
-
----
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Loc-04&theme=tokyonight)
