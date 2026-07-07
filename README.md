@@ -9,7 +9,7 @@
 ### 🌼 About Me
 
 - 🎓 **Software Engineering Major** (CMU Standard) at **DTU**
-- 💼 Currently working as a **Data Engineer Intern** at **NashTech**
+- 💼 Interned as  **Data Engineer** at **NashTech**
 - 🔭 Interested in **Data Engineering, System Architecture & AI**
 - ⚡ Fun fact: I enjoy system design and architecture more than writing code.
 
